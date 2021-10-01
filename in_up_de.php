@@ -50,7 +50,7 @@ $update =false;
     }
   else if(strlen($mob)>=11)
     {
-    //echo "enter value for student mobile number<br>";
+ 
       $mobile_error = " Please Enter  Mobile No Less Than 10 digit"; 
     $f=false;
     }
